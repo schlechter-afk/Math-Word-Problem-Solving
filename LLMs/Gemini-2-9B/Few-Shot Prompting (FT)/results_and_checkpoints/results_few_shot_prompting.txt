@@ -1,0 +1,254 @@
+Evaluation Results:
+
+Question: julia played tag with 18 kids on monday . she played tag with 10 kids on tuesday . how many more kids did she play with on monday than on tuesday ?
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+
+Question: julia played tag with 11 kids on monday . she played tag with 12 kids on tuesday . how many more kids did she play with on tuesday than on monday ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: julia played tag with 5 kids on monday . she played tag with some more kids on tuesday . if she played with a total of 15 kids how many kids did she play with on tuesday ?
+True Answer: 10.0
+Predicted: 10.0
+Correct: True
+
+Question: julia played tag with some kids on monday . she played tag with 14 kids on tuesday . if she played with a total of 16 kids how many kids did she play with on monday ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: julia played tag with 16 kids on monday . if she played tag with 12 more kids on monday than on tuesday how many kids did she play with on tuesday ?
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+
+Question: julia played tag with 14 kids on tuesday . if she played tag with 8 more kids on monday than on tuesday how many kids did she play with on monday ?
+True Answer: 22.0
+Predicted: 22.0
+Correct: True
+
+Question: julia played tag with 17 kids on monday 15 kids on tuesday and 2 kids on wednesday . how many kids did she play with altogether ?
+True Answer: 34.0
+Predicted: 34.0
+Correct: True
+
+Question: julia played tag with 15 kids on monday 18 kids on tuesday and 97 kids on wednesday . how many kids did she play with on monday and tuesday ?
+True Answer: 33.0
+Predicted: 33.0
+Correct: True
+
+Question: julia played tag with 5 kids on monday 9 kids on tuesday and 15 kids on wednesday . how many kids did she play with on monday and wednesday ?
+True Answer: 20.0
+Predicted: 20.0
+Correct: True
+
+Question: julia played tag with 2 kids on monday 14 kids on tuesday and 16 kids on wednesday . how many kids did she play with on tuesday and wednesday ?
+True Answer: 30.0
+Predicted: 30.0
+Correct: True
+
+Question: julia played tag with 9 kids on monday 7 kids on tuesday and 96 kids on wednesday . how many more kids did she play with on monday than on tuesday ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: julia played tag with 14 kids on monday 2 kids on tuesday and 8 kids on wednesday . how many more kids did she play with on monday than on wednesday ?
+True Answer: 6.0
+Predicted: 6.0
+Correct: True
+
+Question: julia played tag with 8 kids on monday 11 kids on tuesday and 9 kids on wednesday . how many more kids did she play with on tuesday than on wednesday ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: julia played tag with 15 kids on monday 18 kids on tuesday and 7 kids on wednesday . how many more kids did she play with on monday and tuesday than on wednesday ?
+True Answer: 26.0
+Predicted: 16.0
+Correct: False
+
+Question: julia played tag with 13 kids on monday and 10 kids on tuesday . she played cards wtih 15 kids on wednesday . how many kids did she play with altogether ?
+True Answer: 38.0
+Predicted: 38.0
+Correct: True
+
+Question: julia played tag with 7 kids on monday and 13 kids on tuesday . she played cards wtih 20 kids on wednesday . how many kids did she play tag with altogether ?
+True Answer: 20.0
+Predicted: 20.0
+Correct: True
+
+Question: julia played tag with 12 kids on monday . she played tag with 14 kids on tuesday . she spent a total of 34 hours to play tag on both days . how many kids did she play with altogether ?
+True Answer: 26.0
+Predicted: 26.0
+Correct: True
+
+Question: julia played tag with 19 kids on monday . she played tag with 18 kids on tuesday . she spent a total of 38 hours to play tag on both days . how many more kids did she play with on monday than on tuesday ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: julia played tag with 5 kids on tuesday . she had played tag with 6 kids on monday . how many more kids did she play with on monday than on tuesday ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: julia played tag with a total of 18 kids . she played with 4 kids on monday and yet with some more kids on tuesday . how many kids did she play with on tuesday ?
+True Answer: 14.0
+Predicted: 14.0
+Correct: True
+
+Question: julia played tag with 4 kids on wednesday . she had played with 6 kids on monday and 17 kids on tuesday . how many more kids did she play with on monday than on wednesday ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: bobby ate some pieces of candy . then he ate 25 more . if he ate a total of 43 pieces of candy how many pieces of candy had he eaten at the start ?
+True Answer: 18.0
+Predicted: 18.0
+Correct: True
+
+Question: bobby ate 28 pieces of candy . then he ate 42 more . he also ate 63 pieces of chocolate . how many pieces of candy did bobby eat ?
+True Answer: 70.0
+Predicted: 70.0
+Correct: True
+
+Question: bobby ate 33 pieces of candy . then he ate 4 more . he also ate 14 pieces of chocolate . how many pieces of candy and chocolate did bobby eat altogether ?
+True Answer: 51.0
+Predicted: 51.0
+Correct: True
+
+Question: bobby ate 38 pieces of candy . then he ate 36 more . he also ate 16 pieces of chocolate . how many more pieces of candy than chocolate did bobby eat ?
+True Answer: 58.0
+Predicted: 2.0
+Correct: False
+
+Question: bobby had 20 pieces of candy . he ate 34 pieces of candy . then he ate 18 more . how many pieces of candy did bobby eat ?
+True Answer: 52.0
+Predicted: 52.0
+Correct: True
+
+Question: bobby had 21 pieces of candy . he ate 5 pieces of candy . then he ate 9 more . how many pieces of candy does he still have left ?
+True Answer: 7.0
+Predicted: 7.0
+Correct: True
+
+Question: bobby had 22 pieces of candy . he ate some pieces of candy . then he ate 5 more . if he still has 8 pieces of candy left how many pieces of candy had he eaten at the start ?
+True Answer: 9.0
+Predicted: 9.0
+Correct: True
+
+Question: bobby had 19 pieces of candy . he ate 2 pieces of candy . how many pieces of candy does he still have left ?
+True Answer: 17.0
+Predicted: 17.0
+Correct: True
+
+Question: bobby had 32 pieces of candy . he ate some pieces of candy . if he has 20 pieces of candy left how many pieces of candy did bobby eat ?
+True Answer: 12.0
+Predicted: 12.0
+Correct: True
+
+Question: bobby ate 17 pieces of candy . then he ate 15 more . if he initially had 36 pieces of candy how many pieces of candy does he still have left ?
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+
+Question: bobby ate 23 pieces of candy . if he initially had 30 pieces of candy how many pieces of candy does he still have left ?
+True Answer: 7.0
+Predicted: 7.0
+Correct: True
+
+Question: allan brought 5 balloons and jake brought 3 balloons to the park . how many more balloons did allan have than jake in the park ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: allan brought 2 balloons and jake brought 3 balloons to the park . how many more balloons did jake have than allan in the park ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: allan and jake brought 3 balloons to the park . if allan brought 2 balloons how many balloons did jake bring to the park ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: jake brought 6 balloons to the park . if jake brought 4 more balloons than the number of balloons that allan brought how many balloons did allan bring to the park ?
+True Answer: 2.0
+Predicted: 2.0
+Correct: True
+
+Question: allan brought 5 balloons to the park . if jake brought 6 more balloons than the number of balloons that allan brought how many balloons did jake bring to the park ?
+True Answer: 11.0
+Predicted: 11.0
+Correct: True
+
+Question: allan brought 3 balloons and jake brought 5 balloons to the park . allan then bought 2 more balloons at the park . how many balloons did allan and jake have in the park ?
+True Answer: 10.0
+Predicted: 10.0
+Correct: True
+
+Question: allan brought 2 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: allan brought 2 balloons and jake brought 6 balloons to the park . allan then bought 3 more balloons at the park . how many more balloons did jake have than allan in the park ?
+True Answer: 1.0
+Predicted: 3.0
+Correct: False
+
+Question: allan brought 5 balloons and jake brought 4 balloons to the park . allan then bought 3 more balloons at the park . how many balloons did allan bring to the park ?
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+
+Question: allan brought 6 balloons and jake brought 2 balloons to the park . jake then bought 3 more balloons at the park . how many more balloons did allan have than jake in the park ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: allan brought 6 balloons and jake brought 3 balloons to the park . jake then bought 4 more balloons at the park . how many more balloons did jake have than allan in the park ?
+True Answer: 1.0
+Predicted: 5.0
+Correct: False
+
+Question: allan brought 5 balloons and jake brought 6 balloons to the park . jake then bought 3 more balloons at the park . how many balloons did jake bring to the park ?
+True Answer: 9.0
+Predicted: 9.0
+Correct: True
+
+Question: allan brought 3 balloons and 20 balls while jake brought 5 balloons and 59 balls to the park . how many balloons did allan and jake have in the park ?
+True Answer: 8.0
+Predicted: 8.0
+Correct: True
+
+Question: allan brought 7 balloons and 5 balls while jake brought 6 balloons and 4 balls to the park . how many balls did allan and jake have in the park ?
+True Answer: 9.0
+Predicted: 11.0
+Correct: False
+
+Question: allan brought 5 balloons . if allan and jake brought total of 6 balloons to the park how many balloons did jake bring to the park ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+Question: allan brought 2 balloons to the park and then bought 3 more balloons there . if jake brought 6 balloons to the park how many more balloons did jake have than allan in the park ?
+True Answer: 1.0
+Predicted: 4.0
+Correct: False
+
+Question: every day ryan spends 6 hours on learning english and 2 hours on learning chinese . how many more hours does he spend on learning english than he does on learning chinese ?
+True Answer: 4.0
+Predicted: 4.0
+Correct: True
+
+Question: every day ryan spends 6 hours on learning english and 7 hours on learning chinese . how many more hours does he spend on learning chinese than he does on learning english ?
+True Answer: 1.0
+Predicted: 1.0
+Correct: True
+
+
+Accuracy on 50 samples: 88.00%
